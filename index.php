@@ -57,8 +57,10 @@
       ?>
     
     </table>
+    
   </div>
   <input type="submit" class="button" onclick="location='crear.php'" value=" Nuevo Usuario" style='width:20%; height:25%'>
+    <input type="submit" class="button" onclick="location='index.php'" value="Actualizar página" style='width:20%; height:25%'><br>
 
 </body>
 </html>
