@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <link rel="stylesheet" type="text/css" href="complementos/estilo.css">
+    <title>Iniciar Sesion</title>
 <?php 
     if(isset($_POST["host"])){
         //Escribir en el archivo config las variables de conexión
@@ -40,9 +40,7 @@
         die;
     }
 ?>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    
 </head>
 <body>
     

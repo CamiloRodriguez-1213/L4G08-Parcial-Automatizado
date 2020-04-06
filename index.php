@@ -14,11 +14,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Last-Modified" content="0">
-    <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
-
     <link rel="stylesheet" type="text/css" href="complementos/estilo.css">
     
-    <title>Index</title>
+    <title>Inicio</title>
     
 </head>
 <body align= center>
