@@ -31,6 +31,7 @@
                 <th>Nombre</th>
                 <th>Apellido</th>
                 <th>Correo</th>
+                <th>Usuario Git</th>
                 <th>Estado</th>
                 <th style='width:20%; height:25%'>Acciones</th>
             </thead>      
@@ -43,6 +44,7 @@
           <td><?php echo $mostrar['nombre'] ?></td>
           <td><?php echo $mostrar['apellido'] ?></td>
           <td><?php echo $mostrar['email'] ?></td>
+          <td><?php echo $mostrar['user'] ?></td>
           <td><?php echo $mostrar['estado'] ?></td>
                   
           <td >
